@@ -35,4 +35,8 @@ python space_shooter.py
 - Health system
 - Multiple enemies
 - Collision detection
-- Smooth controls 
+- Smooth controls
+
+Автор
+animesao
+Email: igorerataev66@gmail.com
